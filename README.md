@@ -1,2 +1,2 @@
 # ScalaLearn
-my journey 
+my journey
